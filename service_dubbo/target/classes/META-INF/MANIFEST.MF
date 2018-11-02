@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: service_dubbo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: WJX
+Implementation-Vendor-Id: com.wjx.springboot
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot_dubbo/service_dubbo
+Created-By: Maven Integration for Eclipse
+

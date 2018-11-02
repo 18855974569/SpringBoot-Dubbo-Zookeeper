@@ -1,0 +1,9 @@
+server:
+  port: 8010
+#ZooKeeper
+dubbo:
+  registry:
+    address: 114.116.24.32:2181
+logging:
+  level:
+    root: INFO
